@@ -1,0 +1,33 @@
+body {
+  background-color: #E7F6F2;
+}
+
+h1 {
+  color: #2C3333
+}
+
+h3 {
+  color: #2C3333
+}
+
+hr {
+  background-color: #E7F6F2;
+  border-style: dotted none none;
+  border-top-style: dotted;
+  height: 0px;
+  width: 5%;
+  border-color: #A5C9CA;
+  border-top-width: 6px;
+}
+
+.jaideep {
+  background-color:#A5C9CA;
+}
+
+.circular {
+  border-radius: 100%
+}
+
+.heading {
+  color: blue;
+}
